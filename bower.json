@@ -1,0 +1,31 @@
+{
+  "name": "oliepers",
+  "version": "0.0.0",
+  "description": "specialist in plantenolie productiesystemen en zijn technische toepassingen",
+  "main": „main”,
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "oliepers"
+  ],
+  "authors": [
+    "Cullen"
+  ],
+  "license": „Apache_V2”,
+  "homepage": „Home”,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "platform": "Polymer/platform#~0.4.0",
+    "polymer": "Polymer/polymer#~0.4.0",
+    "core-elements": "Polymer/core-elements#~0.4.0",
+    "polymer-ui-elements": "Polymer/polymer-ui-elements#~0.3.0",
+    "polymer-ui-accordion": "Polymer/polymer-ui-accordion#~0.3.0"
+  }
+}
